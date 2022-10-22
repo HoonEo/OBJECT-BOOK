@@ -11,5 +11,9 @@ public class Ticket {
 	
 	public void addFeature()
 	{
+
+	};
+	public void addNewFeature()
+	{
 	};
 }
